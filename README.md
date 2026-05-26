@@ -44,7 +44,7 @@ BUILD-API
 
 ## Step 1: Clone Project
 
-git clone https://github.com/your-username/build-api.git
+git clone https://github.com/chavannandini28/Travel-Package-API.git
 
 ## Step 2: Open Project Folder
 
